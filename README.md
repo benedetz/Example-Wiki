@@ -1,7 +1,8 @@
 # Example Wiki
 This is an example of a GitHub wiki for the CS Capstone project
 
-Must-have wiki pages (if applicable to your project)
+***Must-have wiki pages (if applicable to your project)***
+
 **Project Overview & Goals**
 
 A one-page summary of the problem, who benefits, and what “success” looks like (a short demo checklist works well). This anchors the team and gives graders a clear lens for evaluation.
