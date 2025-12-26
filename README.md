@@ -1,7 +1,7 @@
 # Example Wiki
 This is an example of a GitHub wiki for the CS Capstone project. Add the must have wiki pages and 2 of the bonus pages below.
 
-***REQUIRED:  Must-have wiki pages (if applicable to your project)***
+## REQUIRED:  Must-have wiki pages (if applicable to your project)
 
 **Project Overview & Goals**
 
@@ -47,7 +47,7 @@ For each milestone: what’s new, how to try it, and known issues. Helps you pla
 
 Limits of the current build, “if we had two more weeks,” and tips for the next team. Shows thoughtful reflection and sets up continuity.
 
-***Recommended pages (choose 3 or more)***
+## Recommended pages (choose 3 or more)
 
 - Your Choice – whatever makes sense for your project.
 - Assumptions, Dependencies, Constraints
