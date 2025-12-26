@@ -46,3 +46,28 @@ For each milestone: what’s new, how to try it, and known issues. Helps you pla
 **Handoff, Reflection, and Future Work**
 
 Limits of the current build, “if we had two more weeks,” and tips for the next team. Shows thoughtful reflection and sets up continuity.
+
+***Recommended pages (choose 3 or more)***
+
+- Your Choice – whatever makes sense for your project.
+- Assumptions, Dependencies, Constraints
+- Risk Register & Mitigations
+- Data, Security, and Ethics – What data you collect, how you protect it, and any ethical risks or mitigations.
+- Architecture Decision Records (ADRs) – short, dated decisions with context.
+- API Spec – endpoints/contracts, example requests/responses.
+- Data Model & Schemas – ERD, migrations strategy, seed data.
+- UI/UX – wireframes, component library, accessibility checklist.
+- Observability – logging, metrics, tracing; what to check first when things break.
+- Security & Privacy – threat model, secrets handling, authZ/authN, data retention.
+- Meeting Notes & Decisions Log – quick summaries and action items.
+- Demo Scripts – step-by-step flows for sprint demos & final presentation.
+- Deployment Guide – prod/staging setup, environment variables, provisioning steps.
+- User Guide – user guide and walkthrough.
+- How it Works – Details on the ideas behind the code.
+- Ethics, Accessibility, & Inclusive Design – risks, mitigations, checklists.
+- GenAI Usage Log & Citations – how AI was used, prompts/summaries, attributions (matches course policy).
+- Handoff & Future Work – known gaps, next steps, wishlist, lessons learned.
+- Licenses & Credits – third-party deps, licenses, attributions.
+- Glossary – project-specific terms and abbreviations.
+- Release Notes / Changelog – human-readable highlights per release.
+- FAQ – The beginnings of a knowledge base.
