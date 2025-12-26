@@ -11,29 +11,29 @@ A one-page summary of the problem, who benefits, and what “success” looks li
 
 A concise summary of the most important working rules for your team, especially as they apply to development. Should cover:
 
-**Team Communication Standards**
+- **Team Communication Standards**
 
-Concise summary of 461 policy. Update if necessary.
+- Concise summary of 461 policy. Update if necessary.
 
-**Coding Standards**
+- **Coding Standards**
 
-Language/style guides, linting, formatting, comments, etc.
+- Language/style guides, linting, formatting, comments, etc.
 
-**Testing Plan & How to Run Tests**
+- **Testing Plan & How to Run Tests**
 
-What you test (unit, integration, manual checks), test data, and how to run everything.
+- What you test (unit, integration, manual checks), test data, and how to run everything.
 
-**Branching & Release**
+- **Branching & Release**
 
-Git flow, versioning, tagging, release checklist.
+- Git flow, versioning, tagging, release checklist.
 
-**Coding Review** 
+- **Coding Review** 
 
-When and how is code reviewed, using pull-requests, formal review sessions, pair-programming, etc.
+- When and how is code reviewed, using pull-requests, formal review sessions, pair-programming, etc.
 
-**CI/CD** 
+- **CI/CD** 
 
-Policy and pipeline overview, who builds what and when, what runs where.
+- Policy and pipeline overview, who builds what and when, what runs where.
 
 **Requirements & Scope**
 
